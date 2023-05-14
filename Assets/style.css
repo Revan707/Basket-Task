@@ -1,0 +1,12 @@
+button {
+    cursor: pointer;
+}
+
+a {
+    cursor: pointer;
+}
+
+.appleimg {
+    height: 319px;
+    object-fit: cover;
+}
